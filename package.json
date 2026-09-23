@@ -5,7 +5,7 @@
   "private": true,
   "description": "知拾文献阅读与笔记工作台",
   "author": "liuyun",
-  "license": "UNLICENSED",
+  "license": "SEE LICENSE IN LICENSE",
   "main": "desktop/main.cjs",
   "scripts": {
     "dev": "npm run build && electron .",
