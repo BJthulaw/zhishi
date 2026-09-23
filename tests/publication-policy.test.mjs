@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { execFileSync } from 'node:child_process';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 
 test('credentials, personal libraries and generated artifacts stay ignored', () => {
   const sensitive = ['.env', '.env.local', 'settings.json', 'credential.bin',
@@ -15,4 +15,12 @@ test('credentials, personal libraries and generated artifacts stay ignored', () 
   assert.ok(existsSync('app/api.py'));
   assert.ok(existsSync('desktop/assets/installing.gif'));
   assert.ok(existsSync('docs/architecture/知拾-总体架构.svg'));
+});
+
+test('project introduction focuses on usage rather than publishing history', () => {
+  const readme = readFileSync('README.md', 'utf8');
+  assert.ok(readme.includes('## 模型配置'));
+  for (const phrase of ['本仓库仅分发', '全新 Git 历史', '个人验收历史', '相应截图不分发']) {
+    assert.equal(readme.includes(phrase), false);
+  }
 });
