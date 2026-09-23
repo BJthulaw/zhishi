@@ -1,0 +1,4 @@
+citeproc-js 2.4.63
+Copyright (c) 2009-2019 Frank Bennett
+https://github.com/Juris-M/citeproc-js
+Distributed under CPAL-1.0; unmodified source and license included.

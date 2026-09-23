@@ -1,0 +1,44 @@
+{
+  "name": "zhishi",
+  "productName": "知拾",
+  "version": "0.1.11",
+  "private": true,
+  "description": "知拾文献阅读与笔记工作台",
+  "author": "liuyun",
+  "license": "UNLICENSED",
+  "main": "desktop/main.cjs",
+  "scripts": {
+    "dev": "npm run build && electron .",
+    "build": "tsc --noEmit && vite build",
+    "test": "node --test tests/*.test.mjs && vitest run",
+    "test:desktop": "node scripts/smoke-desktop.mjs",
+    "engine:build": "uv run python scripts/build_engine.py",
+    "package": "npm run build && npm run engine:build && electron-forge package",
+    "make": "npm run build && npm run engine:build && electron-forge make",
+    "contracts": "uv run python -m scripts.export_openapi && openapi-typescript frontend/api-schema.json -o frontend/api.generated.ts",
+    "format": "prettier --write frontend/*.{ts,tsx,css} desktop/*.cjs scripts/*.mjs *.json *.ts *.cjs"
+  },
+  "dependencies": {
+    "citeproc": "2.4.63",
+    "lucide-react": "1.31.0",
+    "pdfjs-dist": "5.4.624",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "7.11.2",
+    "@electron-forge/maker-squirrel": "7.11.2",
+    "@electron-forge/maker-zip": "7.11.2",
+    "@types/node": "22.19.15",
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
+    "@vitejs/plugin-react": "4.7.0",
+    "electron": "44.4.2",
+    "openapi-typescript": "7.10.1",
+    "playwright": "1.58.2",
+    "prettier": "3.6.2",
+    "typescript": "5.8.3",
+    "vite": "7.0.6",
+    "vitest": "3.2.4"
+  }
+}

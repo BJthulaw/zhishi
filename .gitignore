@@ -1,0 +1,51 @@
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+settings.json
+credential.bin
+*.pem
+*.key
+# User libraries and generated records
+library/
+kb/
+data/
+originals/
+objects/
+assets/
+indexes/
+runtime/
+staging/
+exports/
+backups/
+*.sqlite*
+*.db
+*.pdf
+*.docx
+*.xlsx
+*.zip
+*.log
+# Build, dependencies and tests
+.venv/
+node_modules/
+out/
+dist/
+build/
+engine-dist/
+*.spec
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+coverage/
+.local-library/
+.smoke-profile/
+.smoke-fixtures/
+.electron-cache/
+docs/screenshots/
+docs/*-smoke.json
+docs/build-artifacts.json
+docs/live-*.json
+# App assets explicitly included
+!desktop/assets/
+!desktop/assets/installing.gif

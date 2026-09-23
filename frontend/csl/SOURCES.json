@@ -1,0 +1,7 @@
+{
+  "legal.csl": "https://raw.githubusercontent.com/zotero-chinese/styles/main/src/法学引注手册（第二版，多语言，重复引用不省略）/法学引注手册（第二版，多语言，重复引用不省略）.csl",
+  "gbt.csl": "https://raw.githubusercontent.com/citation-style-language/styles/master/china-national-standard-gb-t-7714-2015-numeric.csl",
+  "apa.csl": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "locales-zh-CN.xml": "https://raw.githubusercontent.com/citation-style-language/locales/master/locales-zh-CN.xml",
+  "locales-en-US.xml": "https://raw.githubusercontent.com/citation-style-language/locales/master/locales-en-US.xml"
+}
