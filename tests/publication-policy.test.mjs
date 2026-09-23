@@ -20,6 +20,9 @@ test('credentials, personal libraries and generated artifacts stay ignored', () 
 test('project introduction focuses on usage rather than publishing history', () => {
   const readme = readFileSync('README.md', 'utf8');
   assert.ok(readme.includes('## 模型配置'));
+  assert.ok(readme.includes('docs/features/知拾-功能说明.png'));
+  assert.ok(existsSync('docs/features/知拾-功能说明.png'));
+  assert.ok(existsSync('docs/features/知拾-功能说明.svg'));
   for (const phrase of ['本仓库仅分发', '全新 Git 历史', '个人验收历史', '相应截图不分发']) {
     assert.equal(readme.includes(phrase), false);
   }

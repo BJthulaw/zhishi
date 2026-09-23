@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1000" viewBox="0 0 2000 1000">
+<style>text{font-family:"Microsoft YaHei","Segoe UI",sans-serif}</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10" fill="none" stroke="#91a5bf" stroke-width="1.5"/></marker></defs>
+<rect x="0" y="0" width="2000" height="1000" rx="0" fill="#fbfcff" stroke="none" stroke-width="1.6"/>
+<g transform="translate(48 42) scale(1.9583333333333333)"><path d="M12 5v16 M12 5C8 2 4 3 2 4v16c4-2 7-1 10 1 3-2 6-3 10-1V4c-4-2-7-1-10 1" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="114" y="78" font-size="40" fill="#1e334e" font-weight="700">知拾 · 功能全景</text>
+<text x="48" y="121" font-size="24" fill="#61758e" font-weight="400">让每次阅读有所留存：从文献收录，到有来源的研究回答。</text>
+<text x="1640" y="62" font-size="18" fill="#4164d9" font-weight="700">PRODUCT CAPABILITIES</text>
+<text x="1700" y="98" font-size="21" fill="#61758e" font-weight="400">本地优先  /  按需 AI</text>
+<path d="M48 150 L1952 150" fill="none" stroke="#d1dbea" stroke-width="1.8"/>
+<rect x="48" y="183" width="440" height="591" rx="12" fill="white" stroke="#d1dbea" stroke-width="1.6"/>
+<rect x="72" y="207" width="56" height="56" rx="12" fill="#f0f4ff" stroke="none" stroke-width="1.6"/>
+<g transform="translate(85 220) scale(1.25)"><path d="M12 16V3 M7 8l5-5 5 5 M4 15v6h16v-6" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="146" y="240" font-size="28" fill="#1e334e" font-weight="700">多源收录</text>
+<text x="421" y="237" font-size="22" fill="#4164d9" font-weight="700">01</text>
+<text x="72" y="295" font-size="20" fill="#61758e" font-weight="400">把分散资料汇入个人文献库</text>
+<rect x="72" y="320" width="392" height="263" rx="10" fill="#fcfdff" stroke="#d1dbea" stroke-width="1.6"/>
+<path d="M72 356 L464 356" fill="none" stroke="#d1dbea" stroke-width="1.8"/>
+<circle cx="90" cy="338" r="3" fill="#a8b8cc"/>
+<circle cx="103" cy="338" r="3" fill="#a8b8cc"/>
+<circle cx="116" cy="338" r="3" fill="#a8b8cc"/>
+<rect x="536" y="183" width="440" height="591" rx="12" fill="white" stroke="#d1dbea" stroke-width="1.6"/>
+<rect x="560" y="207" width="56" height="56" rx="12" fill="#f0f4ff" stroke="none" stroke-width="1.6"/>
+<g transform="translate(573 220) scale(1.25)"><path d="M3 6h7l2 3h9v12H3Z M3 6V3h7l3 3" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="634" y="240" font-size="28" fill="#1e334e" font-weight="700">分类整理</text>
+<text x="909" y="237" font-size="22" fill="#4164d9" font-weight="700">02</text>
+<text x="560" y="295" font-size="20" fill="#61758e" font-weight="400">让资料可查找、信息可校正</text>
+<rect x="560" y="320" width="392" height="263" rx="10" fill="#fcfdff" stroke="#d1dbea" stroke-width="1.6"/>
+<path d="M560 356 L952 356" fill="none" stroke="#d1dbea" stroke-width="1.8"/>
+<circle cx="578" cy="338" r="3" fill="#a8b8cc"/>
+<circle cx="591" cy="338" r="3" fill="#a8b8cc"/>
+<circle cx="604" cy="338" r="3" fill="#a8b8cc"/>
+<rect x="1024" y="183" width="440" height="591" rx="12" fill="white" stroke="#d1dbea" stroke-width="1.6"/>
+<rect x="1048" y="207" width="56" height="56" rx="12" fill="#f0f4ff" stroke="none" stroke-width="1.6"/>
+<g transform="translate(1061 220) scale(1.25)"><path d="M12 5v16 M12 5C8 2 4 3 2 4v16c4-2 7-1 10 1 3-2 6-3 10-1V4c-4-2-7-1-10 1" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="1122" y="240" font-size="28" fill="#1e334e" font-weight="700">深度阅读</text>
+<text x="1397" y="237" font-size="22" fill="#4164d9" font-weight="700">03</text>
+<text x="1048" y="295" font-size="20" fill="#61758e" font-weight="400">原文、译文与思考在同一工作台</text>
+<rect x="1048" y="320" width="392" height="263" rx="10" fill="#fcfdff" stroke="#d1dbea" stroke-width="1.6"/>
+<path d="M1048 356 L1440 356" fill="none" stroke="#d1dbea" stroke-width="1.8"/>
+<circle cx="1066" cy="338" r="3" fill="#a8b8cc"/>
+<circle cx="1079" cy="338" r="3" fill="#a8b8cc"/>
+<circle cx="1092" cy="338" r="3" fill="#a8b8cc"/>
+<rect x="1512" y="183" width="440" height="591" rx="12" fill="white" stroke="#d1dbea" stroke-width="1.6"/>
+<rect x="1536" y="207" width="56" height="56" rx="12" fill="#f0f4ff" stroke="none" stroke-width="1.6"/>
+<g transform="translate(1549 220) scale(1.25)"><path d="M20 20l-5-5 M17 10a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="1610" y="240" font-size="28" fill="#1e334e" font-weight="700">证据研究</text>
+<text x="1885" y="237" font-size="22" fill="#4164d9" font-weight="700">04</text>
+<text x="1536" y="295" font-size="20" fill="#61758e" font-weight="400">先定位原文，再形成带来源解答</text>
+<rect x="1536" y="320" width="392" height="263" rx="10" fill="#fcfdff" stroke="#d1dbea" stroke-width="1.6"/>
+<path d="M1536 356 L1928 356" fill="none" stroke="#d1dbea" stroke-width="1.8"/>
+<circle cx="1554" cy="338" r="3" fill="#a8b8cc"/>
+<circle cx="1567" cy="338" r="3" fill="#a8b8cc"/>
+<circle cx="1580" cy="338" r="3" fill="#a8b8cc"/>
+<path d="M496 246 L528 246" fill="none" stroke="#91a5bf" stroke-width="1.8" marker-end="url(#a)"/>
+<path d="M984 246 L1016 246" fill="none" stroke="#91a5bf" stroke-width="1.8" marker-end="url(#a)"/>
+<path d="M1472 246 L1504 246" fill="none" stroke="#91a5bf" stroke-width="1.8" marker-end="url(#a)"/>
+<text x="160" y="344" font-size="16" fill="#61758e" font-weight="400">收录文献</text>
+<g transform="translate(104 376) scale(1.25)"><path d="M5 2h9l5 5v15H5Z M14 2v6h5 M8 12h8 M8 16h6" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="99" y="425" font-size="15" fill="#61758e" font-weight="400">PDF</text>
+<g transform="translate(189 376) scale(1.25)"><path d="M5 2h9l5 5v15H5Z M14 2v6h5 M8 12h8 M8 16h6" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="184" y="425" font-size="15" fill="#61758e" font-weight="400">DOCX</text>
+<g transform="translate(274 376) scale(1.25)"><path d="M5 2h9l5 5v15H5Z M14 2v6h5 M8 12h8 M8 16h6" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="269" y="425" font-size="15" fill="#61758e" font-weight="400">XLSX</text>
+<g transform="translate(359 376) scale(1.25)"><path d="M5 2h9l5 5v15H5Z M14 2v6h5 M8 12h8 M8 16h6" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="354" y="425" font-size="15" fill="#61758e" font-weight="400">图片</text>
+<rect x="92" y="448" width="344" height="49" rx="7" fill="white" stroke="#d1dbea" stroke-width="1.6"/>
+<g transform="translate(104 460) scale(0.9583333333333334)"><path d="M12 16V3 M7 8l5-5 5 5 M4 15v6h16v-6" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="143" y="479" font-size="18" fill="#1e334e" font-weight="400">导入文件或粘贴网页链接</text>
+<path d="M108 527 L422 527" fill="none" stroke="#dbe3ef" stroke-width="1.8"/>
+<path d="M108 527 L298 527" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="108" y="561" font-size="17" fill="#61758e" font-weight="400">保存原件 → 后台提取正文</text>
+<path d="M72 622 L79 629" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M79 629 L89 617" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="100" y="629" font-size="21" fill="#1e334e" font-weight="400">文件、图片与公开网页</text>
+<path d="M72 667 L79 674" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M79 674 L89 662" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="100" y="674" font-size="21" fill="#1e334e" font-weight="400">自动正文解析与可选 OCR</text>
+<path d="M72 712 L79 719" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M79 719 L89 707" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="100" y="719" font-size="21" fill="#1e334e" font-weight="400">原件保留，整理结果可核对</text>
+<text x="654" y="344" font-size="16" fill="#61758e" font-weight="400">文献信息</text>
+<text x="582" y="390" font-size="19" fill="#1e334e" font-weight="700">题名与来源</text>
+<path d="M582 411 L904 411" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<rect x="582" y="433" width="140" height="32" rx="7" fill="#eef2ff" stroke="#bac8ed" stroke-width="1.6"/>
+<text x="592" y="455" font-size="16" fill="#4164d9" font-weight="400">个人信息保护</text>
+<rect x="734" y="433" width="172" height="32" rx="7" fill="white" stroke="#d1dbea" stroke-width="1.6"/>
+<text x="744" y="455" font-size="16" fill="#61758e" font-weight="400">网络内容治理</text>
+<text x="582" y="494" font-size="18" fill="#1e334e" font-weight="700">内容摘要</text>
+<path d="M582 514 L898 514" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M582 529 L876 529" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M582 544 L792 544" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M560 622 L567 629" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M567 629 L577 617" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="588" y="629" font-size="21" fill="#1e334e" font-weight="400">十类研究主题，支持多主题</text>
+<path d="M560 667 L567 674" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M567 674 L577 662" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="588" y="674" font-size="21" fill="#1e334e" font-weight="400">约 300 字摘要与关键词</text>
+<path d="M560 712 L567 719" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M567 719 L577 707" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="588" y="719" font-size="21" fill="#1e334e" font-weight="400">手动校正标题、来源与分类</text>
+<text x="1135" y="344" font-size="16" fill="#61758e" font-weight="400">中英对照 · 阅读标记</text>
+<rect x="1070" y="373" width="80" height="32" rx="7" fill="#eef2ff" stroke="#bac8ed" stroke-width="1.6"/>
+<text x="1080" y="395" font-size="16" fill="#4164d9" font-weight="400">原文</text>
+<rect x="1160" y="373" width="80" height="32" rx="7" fill="white" stroke="#d1dbea" stroke-width="1.6"/>
+<text x="1170" y="395" font-size="16" fill="#61758e" font-weight="400">译文</text>
+<rect x="1250" y="373" width="140" height="32" rx="7" fill="white" stroke="#d1dbea" stroke-width="1.6"/>
+<text x="1260" y="395" font-size="16" fill="#61758e" font-weight="400">笔记 / 摘录</text>
+<path d="M1244 422 L1244 548" fill="none" stroke="#d1dbea" stroke-width="1.8"/>
+<text x="1070" y="440" font-size="17" fill="#61758e" font-weight="400">Original</text>
+<text x="1260" y="440" font-size="17" fill="#61758e" font-weight="400">中文译文</text>
+<path d="M1070 462 L1217 462" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M1070 477 L1220 477" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M1070 492 L1196 492" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M1070 507 L1212 507" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M1070 522 L1182 522" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M1260 462 L1392 462" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M1260 477 L1397 477" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M1260 492 L1377 492" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M1260 507 L1393 507" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<path d="M1260 522 L1358 522" fill="none" stroke="#c5cfde" stroke-width="1.8"/>
+<rect x="1068" y="480" width="132" height="12" rx="2" fill="#e8ddff" stroke="none" stroke-width="1.6"/>
+<path d="M1070 477 L1220 477" fill="none" stroke="#637996" stroke-width="1.8"/>
+<path d="M1260 510 L1380 510" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M1048 622 L1055 629" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M1055 629 L1065 617" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="1076" y="629" font-size="21" fill="#1e334e" font-weight="400">原件 / 整理 / 中英逐段对照</text>
+<path d="M1048 667 L1055 674" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M1055 674 L1065 662" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="1076" y="674" font-size="21" fill="#1e334e" font-weight="400">放大阅读、划线、加粗、紫标</text>
+<path d="M1048 712 L1055 719" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M1055 719 L1065 707" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="1076" y="719" font-size="21" fill="#1e334e" font-weight="400">笔记摘录与三种规范引注</text>
+<text x="1624" y="344" font-size="16" fill="#61758e" font-weight="400">研究问题 → 来源证据</text>
+<rect x="1558" y="373" width="348" height="43" rx="7" fill="white" stroke="#d1dbea" stroke-width="1.6"/>
+<text x="1571" y="401" font-size="17" fill="#61758e" font-weight="400">输入问题，选择研究主题…</text>
+<rect x="1558" y="431" width="166" height="32" rx="7" fill="white" stroke="#d1dbea" stroke-width="1.6"/>
+<text x="1568" y="453" font-size="16" fill="#61758e" font-weight="400">本地检索原文</text>
+<rect x="1736" y="431" width="170" height="32" rx="7" fill="#eef2ff" stroke="#bac8ed" stroke-width="1.6"/>
+<text x="1746" y="453" font-size="16" fill="#4164d9" font-weight="400">AI 基于文献回答</text>
+<rect x="1558" y="478" width="348" height="83" rx="7" fill="#f5f7ff" stroke="#c9d4f2" stroke-width="1.6"/>
+<g transform="translate(1571 491) scale(0.9583333333333334)"><path d="M12 2l3 7 7 3-7 3-3 7-3-7-7-3 7-3Z" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="1606" y="510" font-size="18" fill="#1e334e" font-weight="400">回答要点  [1] [2]</text>
+<text x="1571" y="545" font-size="17" fill="#4164d9" font-weight="400">来源文献 · 页码 · 回到原文</text>
+<path d="M1536 622 L1543 629" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M1543 629 L1553 617" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="1564" y="629" font-size="21" fill="#1e334e" font-weight="400">检索证据：匹配相关原文</text>
+<path d="M1536 667 L1543 674" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M1543 674 L1553 662" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="1564" y="674" font-size="21" fill="#1e334e" font-weight="400">模型回答：归纳解释并附来源</text>
+<path d="M1536 712 L1543 719" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<path d="M1543 719 L1553 707" fill="none" stroke="#4164d9" stroke-width="1.8"/>
+<text x="1564" y="719" font-size="21" fill="#1e334e" font-weight="400">主题限定与历史查询记录</text>
+<text x="48" y="820" font-size="22" fill="#1e334e" font-weight="700">贯穿全流程的共用能力</text>
+<rect x="48" y="842" width="1904" height="104" rx="12" fill="white" stroke="#d1dbea" stroke-width="1.6"/>
+<g transform="translate(72 875) scale(1.4166666666666667)"><path d="M12 2l9 4v6c0 5-5 8-9 10-4-2-9-5-9-10V6Z M7 12l3 3 7-7" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="124" y="881" font-size="22" fill="#1e334e" font-weight="700">本地资料管理</text>
+<text x="124" y="916" font-size="19" fill="#61758e" font-weight="400">原件、笔记与结果本地保存</text>
+<g transform="translate(550 875) scale(1.4166666666666667)"><path d="M4 6h16 M4 12h16 M4 18h16 M8 3v6 M16 9v6 M10 15v6" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="602" y="881" font-size="22" fill="#1e334e" font-weight="700">模型按需配置</text>
+<text x="602" y="916" font-size="19" fill="#61758e" font-weight="400">API Key 设置 · 主动调用</text>
+<g transform="translate(1028 875) scale(1.4166666666666667)"><path d="M4 3v18h17 M8 16v-5 M13 16V6 M18 16V9" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="1080" y="881" font-size="22" fill="#1e334e" font-weight="700">Token 用量可见</text>
+<text x="1080" y="916" font-size="19" fill="#61758e" font-weight="400">消耗预测 · 按任务统计</text>
+<g transform="translate(1506 875) scale(1.4166666666666667)"><path d="M4 3h13l4 4v14H3V3Z M7 3v6h10V3 M7 21v-8h10v8" fill="none" stroke="#4164d9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="1558" y="881" font-size="22" fill="#1e334e" font-weight="700">进度与成果保留</text>
+<text x="1558" y="916" font-size="19" fill="#61758e" font-weight="400">译文分批保存 · 备份与恢复</text>
+<path d="M524 863 L524 925" fill="none" stroke="#d1dbea" stroke-width="1.8"/>
+<path d="M1002 863 L1002 925" fill="none" stroke="#d1dbea" stroke-width="1.8"/>
+<path d="M1480 863 L1480 925" fill="none" stroke="#d1dbea" stroke-width="1.8"/>
+<text x="48" y="980" font-size="18" fill="#61758e" font-weight="400">阅读与检索可本地完成；摘要生成、翻译和模型回答按需使用已配置的 LLM。</text>
+<text x="1578" y="980" font-size="18" fill="#61758e" font-weight="400">功能示意线框  ·  16:8  ·  v0.1.11</text>
+</svg>
